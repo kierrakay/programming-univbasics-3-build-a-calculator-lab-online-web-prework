@@ -1,4 +1,4 @@
-def add (5,4)
+def add (x,y)
 puts 5+4
 end
 
