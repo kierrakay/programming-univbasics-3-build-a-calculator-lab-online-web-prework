@@ -1,5 +1,5 @@
 def add
-(5+4)
+(5,4)
 math.class
 end
 
