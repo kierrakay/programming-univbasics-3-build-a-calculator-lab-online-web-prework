@@ -1,5 +1,5 @@
 def add (x,y)
-puts 5+4
+puts x+y
 end
 
 def subtraction(num1, num2)
