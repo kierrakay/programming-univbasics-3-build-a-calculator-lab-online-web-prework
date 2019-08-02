@@ -1,7 +1,5 @@
-def add 
-Math.class()
-puts x+y
-return result
+def add(num1, num2)
+  return
 end
 
 def subtraction(num1, num2)
