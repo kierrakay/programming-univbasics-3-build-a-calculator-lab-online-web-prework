@@ -1,6 +1,6 @@
 def add
-(1+2)
-math.clas
+(5+4)
+math.class
 end
 
 def subtraction(num1, num2)
