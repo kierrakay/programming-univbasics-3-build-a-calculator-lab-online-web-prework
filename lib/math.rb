@@ -1,6 +1,6 @@
 def add (x,y)
 puts x+y
-return results
+return math.class
 end
 
 def subtraction(num1, num2)
