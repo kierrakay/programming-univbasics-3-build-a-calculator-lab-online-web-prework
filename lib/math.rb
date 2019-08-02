@@ -1,5 +1,5 @@
 def add
-5+4
+math.class(5+4)
 end
 
 def subtraction(num1, num2)
